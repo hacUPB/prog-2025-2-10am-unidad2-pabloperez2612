@@ -38,3 +38,4 @@ Promedio = Total / 6
 Escribir ID, Total, Promedio
 Fin
 ```
+<img width="282" height="712" alt="image" src="https://github.com/user-attachments/assets/1837ae50-5580-40e5-b1a2-c5ac436b10ed" />
