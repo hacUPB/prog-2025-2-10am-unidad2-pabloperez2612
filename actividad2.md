@@ -22,7 +22,7 @@
 La información fue consultada en el estándar ANSI y en la documentación de diagramas de flujo de la IEEE Computer Society.
 
 ![imagen](../prog-2025-2-10am-unidad2-pabloperez2612/Captura%20de%20pantalla%202025-07-31%20105016.png)
-
+<img width="282" height="712" alt="image" src="https://github.com/user-attachments/assets/1837ae50-5580-40e5-b1a2-c5ac436b10ed" />
 
 ## ejercisio #2
 
