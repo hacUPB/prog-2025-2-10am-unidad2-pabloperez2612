@@ -38,6 +38,7 @@ Promedio = Total / 6
 Escribir ID, Total, Promedio
 Fin
 ```
+<img width="282" height="712" alt="image" src="https://github.com/user-attachments/assets/1837ae50-5580-40e5-b1a2-c5ac436b10ed" />
 
 ### Diagrama de flujo
 ![ejercisio2](../prog-2025-2-10am-unidad2-pabloperez2612/Diagrama%20de%20flujo%20de%20sueldos.drawio%20(1).png)

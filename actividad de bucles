@@ -1,0 +1,32 @@
+# Actividad de bucles 
+
+## ejercisio 2
+
+se requiere un algoritmo para determinar, de N cantidades, cuantas son cero, cuantas son menores, y cuantas son mayores a cero.
+
+realice el diagrama de flujo y el pseudocodigo representarlo, utilizando el ciclo apropiado                                                                                                                                                                                ´´´                                                                                                                                                                            inicio
+
+Leer N 
+
+ceros=0
+mayores=0
+menores=0
+Mientras N > 0:
+Leer cant
+Si cant > 0:
+     ceros = ceros + 1
+Si no
+     menores = menores + 1
+    Fin Si
+Fin Si
+N = N - 1
+Fin Mientras
+Mostrar ceros, Mayores, Menores
+Fin
+´´´
+![imagen diagrama de flujo](../prog-2025-2-10am-unidad2-pabloperez2612/ejerc%20N%20#1.png)
+
+
+
+
+
