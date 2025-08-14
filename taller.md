@@ -29,8 +29,9 @@ Fin
 1. **Registro de altitudes de vuelo**
     
     Un sistema debe registrar la altitud de vuelo cada 10 minutos durante una hora y mostrar todas las mediciones al final.
-| VARIABLE| TIPO| CONTENIDO|
-|----------|-------|---------|
+
+| VARIABLE| TIPO| 
+|----------|-------|
 |Altura| Entrada|
 |medicion| salida|
 ```
