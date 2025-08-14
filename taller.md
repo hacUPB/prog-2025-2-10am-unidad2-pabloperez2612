@@ -48,7 +48,11 @@ Fin
 
 ## ejercisio 3
 Un sistema mide cada 5 minutos la temperatura en cabina durante una hora. Si en algún momento se detecta una temperatura mayor a 27°C o menor a 18°C, debe indicar que se active el sistema de climatización.
-
+| VARIABLE| TIPO| 
+|----------|-------|
+|mediciones de temperatura | Entrada|
+|indicar las las alarmas | salida|
+|i| variable de seguimiento|
 ```
 inicio
 Desde i = 0 Hasta i = 11
