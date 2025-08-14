@@ -22,7 +22,7 @@
 La información fue consultada en el estándar ANSI y en la documentación de diagramas de flujo de la IEEE Computer Society.
 
 ![imagen](../prog-2025-2-10am-unidad2-pabloperez2612/Captura%20de%20pantalla%202025-07-31%20105016.png)
-<img width="282" height="712" alt="image" src="https://github.com/user-attachments/assets/1837ae50-5580-40e5-b1a2-c5ac436b10ed" />
+
 
 ## ejercisio #2
 
@@ -44,7 +44,7 @@ Fin
 ![ejercisio2](../prog-2025-2-10am-unidad2-pabloperez2612/Diagrama%20de%20flujo%20de%20sueldos.drawio%20(1).png)
 
 ## tarea
-´´´
+```
 inicio
 leer Nota1, Nota2, Nota3, Nota4, Nota5, Nota6
 Total= N1+N2+N3+N4+N5+N6
@@ -53,9 +53,7 @@ Acumulado= Promedio*0.70
 Necesario= (3.0 - Acumulado) / 0.30
 Escribir Necesario
 Fin
-´´´
-### Diagrama de flujo
-![tarea](../prog-2025-2-10am-unidad2-pabloperez2612/Captura%20de%20pantalla%202025-08-05%20102300.png)
+```
 
 ### Ejercisio 3
 
@@ -70,7 +68,7 @@ Fin
 ## pseudocodigo
 
 ```
-inico
+inicio
 leer lapices
 si lapices >= 1000:
    valor_unidad = 85
@@ -132,7 +130,3 @@ Si no
 Fin Si 
 Fin 
 ```
-
-
-    
-<img width="282" height="712" alt="image" src="https://github.com/user-attachments/assets/1837ae50-5580-40e5-b1a2-c5ac436b10ed" />
